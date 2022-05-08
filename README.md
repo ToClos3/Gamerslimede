@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gamerslimede
 - 👀 I’m interested in C#, C, C++
-- 🌱 I’m currently learning Pyhton
+- 🌱 I’m currently learning Python
 
 
 <!---
