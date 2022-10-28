@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gamerslimede
+- 👋 Hi, I’m @To_Close
 - 👀 I’m interested in C#, C, C++
 - 🌱 I’m currently learning Python
 
